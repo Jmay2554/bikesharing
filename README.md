@@ -35,4 +35,4 @@ The first visualization that i would focus on if i needed to add a new one would
 
 The second visualization that I would create is related to birth year, number of rides, and gender. This would tell me what kind of bikes we can include, if typically younger ages are using our bikes we can include smaller bikes. Or if older folks are using the bikes, we could improve them for comfortability or add a motor for speed.
 
-[link to dashboard](https://public.tableau.com/authoring/Book1_16486813803460/NumberofRides/Investor%20Signoff#1)
+[link to dashboard](https://public.tableau.com/app/profile/jon.may7811/viz/Book1_16486813803460/NumberofRides)
