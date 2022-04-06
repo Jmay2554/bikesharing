@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# BikeSharing Analysis
 ## Overview
 The purpose of this analysis was to  collect, gather and showcase data for a new startup, related to Citi Bikes.By using previous data from NYC we were able  to format and visualize our data in a neat and clean way for our potential investors. Because they are not technical, tableau provided smart descriptions and easily accessible visualizations to help explain our data, and determine if we would be fit for investors.
 
